@@ -153,8 +153,15 @@ h5 {
     top: 75px;
     left: 75px;
   }
+  .container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+    align-content: center;
 }
-
+}
 @media only screen and (max-width: 1200px) and (min-width: 1200px) {
   .foto__responsive {
     position: relative;
