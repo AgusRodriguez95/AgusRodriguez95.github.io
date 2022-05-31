@@ -193,9 +193,10 @@ h5 {
     left: 100 px;
   }
 
+  /* Elimine el estilo bottom */
   .div__responsive {
     position: relative;
-    bottom: 51px;
+    
   }
 }
 
@@ -276,6 +277,9 @@ p {
   height: 100%;
   overflow-x: hidden;
   }
+
+
+  
 
 
   
